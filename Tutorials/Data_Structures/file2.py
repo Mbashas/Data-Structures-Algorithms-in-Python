@@ -18,7 +18,7 @@ student1 = Student("Amos", "A94545", "S22B23/312")
 student2 = Student("Tobi", "A94545", "S22B23/312")
 student3 = Student("Akunda", "A94545", "S22B23/312")
 student4 = Student("Seth", "A94545", "S22B23/312")
-
+#  this will print 
 print(type(student1))
 
 
